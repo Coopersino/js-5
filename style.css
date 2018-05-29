@@ -1,0 +1,28 @@
+#wrapper {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.finction__item {
+  border: 1px solid black;
+  border-radius: 5px;
+  cursor: pointer;
+  list-style: none;
+  padding: 2px;
+  margin-bottom: 5px;
+  width: 250px;
+  text-align: center;
+}
+
+#chessBoard {
+  width:400px;
+  height:400px;
+  border:1px solid rgb(173, 173, 173);
+}
+
+.cell {
+  width:40px;
+  height:40px;
+  float:left;
+  text-align: right;
+}
